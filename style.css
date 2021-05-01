@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.box{
+	width: 450px;
+	background: rgba(0,0,0,0.4);
+	text-align: center;
+	padding: 40px;
+	margin: auto;
+	margin-top: 3%;
+	color: pink;
+	font-family: sans-serif;
+	border: 4px;
+}
+
+.box-img{
+	border-radius:60%;
+	width: 400px;
+	height: 650px;
+}
+
+.box-h1{
+	font-family: 'Lobster', cursive;
+}
